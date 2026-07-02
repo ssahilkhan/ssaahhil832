@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @ssaahhil832
-- 👀 I’m interested in software development, ai tools& space exploration 
-- 🌱 I’m currently learning full stack development 
-- 💞️ I’m looking to collaborate on web pages build-up
-- 📫 you can reach me through my email id : sorakayalapetasahilkhan@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I use ai tools most of the time to develope my skills.
+# ssaahhil832
 
-<!---
-ssaahhil832/ssaahhil832 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> GitHub profile configuration and README — Sahil Khan
+
+![Progress](https://progress-bar.dev/50)
+
+## About
+
+- 👋 Hi, I'm **@ssaahhil832**
+- 👀 Interested in software development, AI tools & space exploration
+- 🌱 Currently learning full-stack development
+- 💞️ Looking to collaborate on web pages and open-source projects
+
+## Tech Stack
+
+- GitHub Profile Markdown
+- GitHub Actions (config)
+
+## Future Scope
+
+- Add GitHub action badges
+- Showcase pinned projects dynamically
+- Add contribution graph visualization
+- Include tech stack badges and visitor counter
+- Add weekly development breakdown
