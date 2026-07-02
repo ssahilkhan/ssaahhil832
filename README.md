@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+%40ssahilkhan;Full-Stack+Developer;AI+%26+ML+Enthusiast;Space+%26+Quantum+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Hi,+I'm+Sahil+Khan;Full-Stack+Developer;AI+%26+ML+Enthusiast;Space+%26+Quantum+Explorer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-## ðŸ§‘â€ðŸ’» About Me
+## About Me
 
 ```yaml
 name: Sahil Khan
@@ -40,11 +40,11 @@ collaboration: Open to web apps, AI tools & space-related projects
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### ðŸ’» Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -52,7 +52,7 @@ collaboration: Open to web apps, AI tools & space-related projects
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### ðŸŒ Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -60,14 +60,14 @@ collaboration: Open to web apps, AI tools & space-related projects
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### âš™ï¸ Backend & AI
+### Backend & AI
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### ðŸ—„ï¸ Databases & Tools
+### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -79,7 +79,7 @@ collaboration: Open to web apps, AI tools & space-related projects
 
 ---
 
-## ðŸ“Š GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssahilkhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
@@ -96,24 +96,24 @@ collaboration: Open to web apps, AI tools & space-related projects
 
 ---
 
-## ðŸš€ Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**superexpert-ai**](https://github.com/ssahilkhan/superexpert-ai) | Multi-LLM agent system with RAG | Next.js, Prisma, LangChain |
-| [**deepinfinity-app**](https://github.com/ssahilkhan/deepinfinity-app) | Radiology AI reporting system | FastAPI, React, MongoDB |
-| [**moneylens**](https://github.com/ssahilkhan/moneylens) | AI-powered finance tracker | Flutter, FastAPI, Gemini AI |
-| [**market-place-workers**](https://github.com/ssahilkhan/market-place-workers) | Decentralized worker marketplace | FastAPI, Next.js, Radix UI |
-| [**rankwars**](https://github.com/ssahilkhan/rankwars) | Competitive ranking platform | Next.js 16, Supabase |
-| [**spam-detector**](https://github.com/ssahilkhan/spam-detector) | ML spam classifier with Gradio | Python, Scikit-learn, Gradio |
+| [superexpert-ai](https://github.com/ssahilkhan/superexpert-ai) | Multi-LLM agent system with RAG | Next.js, Prisma, LangChain |
+| [deepinfinity-app](https://github.com/ssahilkhan/deepinfinity-app) | Radiology AI reporting system | FastAPI, React, MongoDB |
+| [moneylens](https://github.com/ssahilkhan/moneylens) | AI-powered finance tracker | Flutter, FastAPI, Gemini AI |
+| [market-place-workers](https://github.com/ssahilkhan/market-place-workers) | Decentralized worker marketplace | FastAPI, Next.js, Radix UI |
+| [rankwars](https://github.com/ssahilkhan/rankwars) | Competitive ranking platform | Next.js 16, Supabase |
+| [spam-detector](https://github.com/ssahilkhan/spam-detector) | ML spam classifier with Gradio | Python, Scikit-learn, Gradio |
 
 </div>
 
 ---
 
-## ðŸ§  Currently Exploring
+## Currently Exploring
 
 <div align="center">
   <img src="https://img.shields.io/badge/Agentic_AI-LangGraph-00C853?style=flat-square" />
@@ -124,7 +124,7 @@ collaboration: Open to web apps, AI tools & space-related projects
 
 ---
 
-## ðŸ“« Connect
+## Connect
 
 <div align="center">
   <a href="https://github.com/ssahilkhan">
