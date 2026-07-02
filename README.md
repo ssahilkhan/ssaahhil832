@@ -89,18 +89,11 @@ collaboration: Open to web apps, AI tools, and space-related projects
 
 <div align="center">
 
-### Stats & Top Languages
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssahilkhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssahilkhan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
 ### Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssahilkhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ### Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssahilkhan&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true" width="100%" alt="Contribution Graph" />
-
-### Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=ssahilkhan&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" width="100%" />
 
 </div>
 
@@ -154,9 +147,12 @@ collaboration: Open to web apps, AI tools, and space-related projects
 
 ---
 
-## Quick Links
+## Connect
 
 <div align="center">
+  <a href="https://github.com/ssahilkhan">
+    <img src="https://img.shields.io/badge/GitHub-ssahilkhan-181717?style=for-the-badge&logo=github" />
+  </a>
   <a href="https://github.com/ssahilkhan?tab=repositories">
     <img src="https://img.shields.io/badge/All%20Repos-53%20projects-181717?style=for-the-badge&logo=github" />
   </a>
@@ -165,9 +161,6 @@ collaboration: Open to web apps, AI tools, and space-related projects
   </a>
   <a href="https://ssahilkhan.github.io">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=firefox-browser" />
-  </a>
-  <a href="https://github.com/ssahilkhan/AboutSahil">
-    <img src="https://img.shields.io/badge/About%20Me-This%20Repo-2ea44f?style=for-the-badge&logo=githubpages" />
   </a>
 </div>
 
